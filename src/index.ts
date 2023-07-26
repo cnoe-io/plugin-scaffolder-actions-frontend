@@ -1,1 +1,1 @@
-export * from './fields';
+export {KubernetesClusterPickerExtension} from "./fields";
